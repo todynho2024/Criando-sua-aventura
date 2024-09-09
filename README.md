@@ -19,4 +19,4 @@ Sugestões de melhoria para o futuro
 Implementar mais imagens e efeitos sonoros nos pontos para tornar a experiência mais imersiva.
 Criar mais ramificações na história, adicionando mais escolhas e finais ✨
 Deixar o projeto mais acessível para dispositivos móveis.
-Divirta-se em busca da cidade perdida! 🛝
+Divirta-se em busca de Roma! 🛝
